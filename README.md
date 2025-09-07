@@ -34,7 +34,7 @@ It consists of two parts:
 
 ## Project Structure
 ```
-BankistApp/
+Bankist/
 ├── BankistApplication/
 │   ├── .prettierrc
 │   ├── Bankist-flowchart.png
@@ -43,29 +43,30 @@ BankistApp/
 │   ├── logo.png
 │   ├── script.js
 │   └── style.css
-└── BankistWebsite/
-    ├── .prettierrc
-    ├── img/
-    │   ├── card-lazy.jpg
-    │   ├── card.jpg
-    │   ├── digital-lazy.jpg
-    │   ├── digital.jpg
-    │   ├── grow-lazy.jpg
-    │   ├── grow.jpg
-    │   ├── hero.png
-    │   ├── icon.png
-    │   ├── icons.svg
-    │   ├── img-1.jpg
-    │   ├── img-2.jpg
-    │   ├── img-3.jpg
-    │   ├── img-4.jpg
-    │   ├── logo.png
-    │   ├── user-1.jpg
-    │   ├── user-2.jpg
-    │   └── user-3.jpg
-    ├── index.html
-    ├── script.js
-    └── style.css
+├── BankistWebsite/
+│   ├── .prettierrc
+│   ├── img/
+│   │   ├── card-lazy.jpg
+│   │   ├── card.jpg
+│   │   ├── digital-lazy.jpg
+│   │   ├── digital.jpg
+│   │   ├── grow-lazy.jpg
+│   │   ├── grow.jpg
+│   │   ├── hero.png
+│   │   ├── icon.png
+│   │   ├── icons.svg
+│   │   ├── img-1.jpg
+│   │   ├── img-2.jpg
+│   │   ├── img-3.jpg
+│   │   ├── img-4.jpg
+│   │   ├── logo.png
+│   │   ├── user-1.jpg
+│   │   ├── user-2.jpg
+│   │   └── user-3.jpg
+│   ├── index.html
+│   ├── script.js
+│   └── style.css
+└── README.md
 ```
 <br>
 
